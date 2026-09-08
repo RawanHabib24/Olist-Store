@@ -31,3 +31,6 @@ Python (pandas) — initial data exploration
 - Investigated why ~97% of customers never return, testing delivery time, review scores, price, and product category as potential drivers.
 - None of these operational factors showed a strong enough correlation to fully explain the one-time-buyer pattern. The conclusion: retention is more likely driven by platform or behavioral factors (e.g., how Olist's marketplace model connects customers to sellers) rather than something fixable through delivery or pricing changes alone.
 - This reframed the business question from "how do we reduce late deliveries" to "is repeat purchase even the right growth lever for this platform" — a more strategic, less purely operational insight.
+## Project Presentation:
+- https://lnkd.in/p/epSuW254
+- https://lnkd.in/p/e92JhMAK
