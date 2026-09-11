@@ -32,14 +32,14 @@ Python (pandas) — initial data exploration
 - Built delivery classification logic (late_type, order_segment) to categorize orders by how and why they were late, rather than just flagging "late vs. on-time."
 - Delivery-related KPIs (on-time rate, YoY trends) were tracked with dynamic visual indicators, making performance shifts easy to spot at a glance.
 ![image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/delivery%20performance/Screenshot%202026-09-11%20152533.png?raw=true)
-1[image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/delivery%20performance/Screenshot%202026-09-11%20152556.png?raw=true)
+![image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/delivery%20performance/Screenshot%202026-09-11%20152556.png?raw=true)
 ## Orders & Problems — the core business question
 - Investigated why ~97% of customers never return, testing delivery time, review scores, price, and product category as potential drivers.
 - None of these operational factors showed a strong enough correlation to fully explain the one-time-buyer pattern. The conclusion: retention is more likely driven by platform or behavioral factors (e.g., how Olist's marketplace model connects customers to sellers) rather than something fixable through delivery or pricing changes alone.
 - This reframed the business question from "how do we reduce late deliveries" to "is repeat purchase even the right growth lever for this platform" — a more strategic, less purely operational insight.
 - Delivery-related KPIs (on-time rate, YoY trends) were tracked with dynamic visual indicators, making performance shifts easy to spot at a glance.
 ![image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/orders&problems/Screenshot%202026-09-11%20151050.png?raw=true)
-1[image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/orders&problems/Screenshot%202026-09-11%20151138.png?raw=true)
+![image alt](https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/orders&problems/Screenshot%202026-09-11%20151138.png?raw=true)
 ## Project Presentation:
 - https://lnkd.in/p/epSuW254
 - https://lnkd.in/p/e92JhMAK
