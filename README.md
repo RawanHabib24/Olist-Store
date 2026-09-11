@@ -20,7 +20,9 @@ Python (pandas) — initial data exploration
 ## Customer Behavior:
 - Traditional RFM was statistically meaningless for this dataset — ~97% of customers were one-time buyers, making the "Frequency" dimension useless. Pivoted to an RM (Recency-Monetary) segmentation using a 3×3 NTILE grid instead, which produced far more actionable customer segments.
 - Built CLV scoring and churn status (based on recency) to complement the segmentation, giving a clearer picture of customer value beyond simple purchase counts.
-## Sales & Revenue
+  ![image alt][https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/Customer%20behavior/Screenshot%202026-09-11%20150452.png?raw=true]
+  ![image alt][https://github.com/RawanHabib24/Olist-Store/blob/main/dashboard/Customer%20behavior/Screenshot%202026-09-11%20150720.png?raw=true]
+  ## Sales & Revenue
 - Tested a shipping margin model as a potential revenue KPI, but abandoned it after finding ~22% of rows violated the model's core assumptions — a reminder that a metric has to hold up across the full dataset, not just the majority case.
 - Settled on category commission as the primary revenue KPI, since it was more consistent and interpretable across product categories.
 - Ran payment method breakdowns and a Pareto (80/20) analysis, confirming that a small subset of categories/sellers drive the majority of revenue.
